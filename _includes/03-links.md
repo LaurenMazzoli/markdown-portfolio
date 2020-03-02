@@ -1,3 +1,3 @@
-![Me] (https://github.com/LaurenMazzoli)
+[Me] (https://github.com/LaurenMazzoli)
 
-![tri-c home page] (https://www.tri-c.edu/)
+[tri-c home page] (https://www.tri-c.edu/)
